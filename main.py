@@ -7,6 +7,7 @@ LOGGER = initialize_logger(__name__)
 JSON_LOADER = JSONLoader()
 PREV_TEXT: str = ""
 
+
 def bot():
 
     # CHANNEL_ID = -1002040669829
